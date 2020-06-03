@@ -1,0 +1,28 @@
+_repo: Money-making-men-or-how-to-grow-rich_62268
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ritchie, J. Ewing (James Ewing)
+    aliases:
+    - Crayon, Christopher
+    - Ritchie, James Ewing
+    birthdate: 1820
+    deathdate: 1898
+    gutenberg_agent_id: '34770'
+    url: http://www.gutenberg.org/2009/agents/34770
+    wikipedia: https://en.wikipedia.org/wiki/James_Ewing_Ritchie
+description: ''
+gutenberg_issued: '2020-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rich people -- Biography'
+- !lcc 'HC'
+- GITenberg
+title: Money-making men; or, how to grow rich
+url: http://www.gutenberg.org/ebooks/62268
